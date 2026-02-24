@@ -30,6 +30,7 @@ For any queries or feedback, reach out to the repository owner.
 # Team Members
 
 1. S. DEVENDRA LAKSHMAN
-2. I. GEETHA LAKSHMI MADHURI
-3. K. MADHURYA
-4. CH. VINEETHA
+2. S. GEETHIKA
+3. CH. VINEETHA
+4. I. GEETHA LAKSHMI MADHURI
+5. K. MADHURYA
