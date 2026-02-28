@@ -34,4 +34,3 @@ For any queries or feedback, reach out to the repository owner.
 3. CH. VINEETHA
 4. I. GEETHA LAKSHMI MADHURI
 5. K. MADHURYA
-6. S. GEETHIKA
